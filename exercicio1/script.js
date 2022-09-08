@@ -10,3 +10,4 @@ if(num % 2 === 0){
     console.log("esse numero não é divisivel por 2")
 }
 
+
